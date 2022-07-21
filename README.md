@@ -8,6 +8,6 @@
 
 ## Comandos para dar commit
 1º → git status 
-2º → git add 
+2º → git add *
 3º → git commit -m "mensagem" 
 4º → git push
